@@ -5,10 +5,12 @@ Testes unitários e de integração.
 <h2>🐱‍👤Features:</h2>
 
 devDependence:
+
 npm install --save-dev eslint(com style airbnb);
 npm install --save-dev jest
 
 NOTE:
+
 No package.json foi inserido test:watch e o test:coverage para monitorar os testes e apresentar informações.
 
 <h2>🤖Tech:</h2>
